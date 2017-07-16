@@ -1,0 +1,66 @@
+.jumbotron{
+	color: white;
+	background: orange;
+}
+
+.crystal{
+	float: left;
+	width: 90px;
+	height: 90px;
+	margin:5px;
+}
+
+#diamond {
+	background: white;
+	margin-left: 0px;
+}
+
+#crystal{
+	padding-left: 0px;
+}
+
+#random {
+	padding: 0px;
+}
+
+.instructions {
+	color: green;
+	background: tan;
+	font-size: 16pt;
+	font-family: Georgia, Times, "Times New Roman", serif;
+	margin-bottom: 20px;
+}
+
+#randomNumber {
+	background: lightgreen;
+	font-size: 26pt;
+	height: 100px;
+	padding-left: 0px;
+}
+
+#win-loss {
+	background: lightblue;
+	height: 100px;
+	font-weight: bold;
+}
+
+#score {
+	background: teal;
+	color : white;
+	margin-bottom: 20px;
+	margin-top: 15px;
+	font-size: 20px;
+	padding-top: 5px;
+}
+
+#score p{
+	vertical-align: middle;
+}
+
+#sum {
+	height : 100px;
+	background : teal;
+	color: white;
+	font-size: 26pt;
+}
+
